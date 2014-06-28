@@ -6,5 +6,6 @@ gem 'lita-twitter', '0.0.6'
 gem 'lita-pebbles', '0.1.7'
 gem "lita-google-images"
 gem "lita-sushiyuki"
+gem "newrelic_rpm"
 
 gem 'dotenv'
